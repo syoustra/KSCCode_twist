@@ -35,6 +35,8 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background-color: #e6e6e6;
+	background-image: url("http://www.powerpointhintergrund.com/uploads/clouds-blue-sky-background-28.jpg");
+
 }
 ol, ul {
 	list-style: none;
